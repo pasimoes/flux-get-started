@@ -22,5 +22,4 @@ spec:
       enabled: false
     securityContext:
       enabled: true
-      fsGroup: 0
-      runAsUser: 0
+      fsGroup: 1001
